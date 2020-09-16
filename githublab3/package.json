@@ -1,0 +1,14 @@
+{
+  "name": "githublab3",
+  "version": "0.0.0",
+  "description": "githublab3",
+  "scripts": {
+    "start": "node server"
+  },
+  "engines": {
+    "node": "~6.10.x"
+  },
+  "author": {
+    "name": ""
+  }
+}
